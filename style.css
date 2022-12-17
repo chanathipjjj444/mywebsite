@@ -1,0 +1,24 @@
+.navbar-custom{
+    background-color: blueviolet;
+}
+
+.nav-link,.navbar-brand{
+    color: white !important;
+}
+
+.aboutme{
+    text-align: left;
+}
+
+.technical-custom{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+
+
+.technical-custom2{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
